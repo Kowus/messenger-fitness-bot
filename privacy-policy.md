@@ -16,7 +16,7 @@ This service asks for certain information such as your **facebook profile userna
 This service may directly collect analytics data, or use third-party analytics tools and services, to help the developer measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pattern of requests, , and other information that assists us in improving the Service. This analytics information is collected and used in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
 
 
-
+___
 The developer of this Services will not sell, distribute or lease your personal information to third parties unless granted permission by the user or are required by law to do so. Your personal information will be used to tailor your user experience with respect to projects or third parties which you may find interesting if you opt in for this service.
 
 The developer undertakes not to disclose tha information provided by users to any person unless such action is necessary to the extent required by law for regulatory purposes.
