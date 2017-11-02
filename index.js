@@ -44,7 +44,7 @@ app.listen(app.get('port'), function () {
 function sendTextMessage(sender, text) {
     let messageData = {text: text};
     request({
-        url:'https://graph.facebook.com/v2.1/me/messages',
+        url:'https://graph.facebook.com/v2.6/me/messages',
         qs:{access_token: token},
         method: 'POST',
         json:{
