@@ -21,4 +21,4 @@ The developer of this Services will not sell, distribute or lease your personal 
 
 The developer undertakes not to disclose tha information provided by users to any person unless such action is necessary to the extent required by law for regulatory purposes.
 
-If you believe that any information held on you is inaccurate or incomplete, please write to or email the developer as soon as possible at the above address. If it is information collected from facebook, you will be guided as to how to update this information. If it is information you submitted directly through this service, corrections will be made promptly.
+If you believe that any information held on you is inaccurate or incomplete, please write to or email the developer as soon as possible at <a href="mailto:barnabasnomo@gmail.com">barnabasnomo@gmail.com</a>. If it is information collected from facebook, you will be guided as to how to update this information. If it is information you submitted directly through this service, corrections will be made promptly.
