@@ -32,6 +32,7 @@ app.post('/webhook/', function (req, res) {
         }
     }
     res.sendStatus(200);
+    console.log("webhook post recieved")
 });
 
 
