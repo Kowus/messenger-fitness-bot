@@ -74,30 +74,25 @@ function sendGenericMessage(sender) {
                 "template_type":"generic",
                 "elements":[
                     {
-                        "title": "First Card",
-                        "subtitle": "Element #1 of an hscroll",
-                        "image_url":"https://github.com/kowus/node-opencv-face-detect/raw/master/all-smiles.JPG",
+                        "title": "Pushup",
+                        "subtitle": "Perform 40 pushups",
+                        "image_url":"http://vignette4.wikia.nocookie.net/parkour/images/e/e0/Push_Up.jpg/revision/latest?cb=20141122161108",
                         "buttons":[
                             {
                                 "type": "web_url",
-                                "url":"https://www.messenger.com",
-                                "title":"web url"
-                            },
-                            {
-                                "type":"postback",
-                                "title": "Postback",
-                                "payload": "Payload for first element in a generic bubble"
+                                "url":"http://www.bodybuilding.com/exercises/detail/view/name/pushups",
+                                "title":"Exercise Video"
                             }
                         ]
                     },{
-                        "title": "Second Card",
-                        "subtitle": "Element #2 of an hscroll",
-                        "image_url":"https://github.com/kowus/node-opencv-face-detect/raw/master/last-day.JPG",
+                        "title": "Benchpress",
+                        "subtitle": "Perform 20 reps of benchpress",
+                        "image_url":"http://www.bodybuilding.com/exercises/exerciseImages/sequences/360/Male/m/360_1.jpg",
                         "buttons":[
                             {
-                                "type":"postback",
-                                "title": "Postback",
-                                "payload": "Payload for second element in a generic bubble"
+                                "type": "web_url",
+                                "url": "http://www.bodybuilding.com/exercises/detail/view/name/pushups",
+                                "title": "Excercise Video"
                             }
                         ]
                     }
