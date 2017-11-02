@@ -1,4 +1,3 @@
-'use strict';
 require('dotenv').config();
 const express = require('express'),
     bodyParser = require('body-parser'),
@@ -18,6 +17,7 @@ app.get('/webhook/', function (req, res, next) {
     if (req.query['hub.verify_token'] === process.env.WEBHOOK_TOKEN) {
         res.send(req.query['hub.challenge']);
     }
+    console.log('Wrong Token Received');
     res.send('Error, wrong token');
 });
 
