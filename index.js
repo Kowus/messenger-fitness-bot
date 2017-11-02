@@ -76,7 +76,7 @@ function sendGenericMessage(sender) {
                     {
                         "title": "First Card",
                         "subtitle": "Element #1 of an hscroll",
-                        "image_url":"http://messengerdemo.parseapp.com/img/rift.png",
+                        "image_url":"https://github.com/kowus/node-opencv-face-detect/raw/master/all-smiles.JPG",
                         "buttons":[
                             {
                                 "type": "web_url",
@@ -92,7 +92,7 @@ function sendGenericMessage(sender) {
                     },{
                         "title": "Second Card",
                         "subtitle": "Element #2 of an hscroll",
-                        "image_url":"http://messengerdemo.parseapp.com/img/gearvr.png",
+                        "image_url":"https://github.com/kowus/node-opencv-face-detect/raw/master/last-day.JPG",
                         "buttons":[
                             {
                                 "type":"postback",
